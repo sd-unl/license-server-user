@@ -3,3 +3,4 @@ sqlalchemy
 google-auth
 requests
 psycopg2-binary
+gunicorn
